@@ -3,6 +3,7 @@
 # Sessions
 - [[01_20221113 - A Welcoming Party]]
 - [[02_20221119 - Finishing off the Goblins]]
+- [[03_20221203 - Dark Secrets]]
 
 # Trackers
 
