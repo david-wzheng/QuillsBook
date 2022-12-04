@@ -1,0 +1,1 @@
+- [ ] Clear [[Goblin Cave]] at [[Movus]]'s behest

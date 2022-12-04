@@ -1,0 +1,4 @@
+- [ ] How did we arrive at [[Breica]]?
+- [ ] Who is [[Letholvus McKinnon]] and why he so sus?
+- [ ] What is this undead that is plagueing the land?
+- [ ] What is the [[Mark]] on our hands?

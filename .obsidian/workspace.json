@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "8f156425b48aed4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eca783f934f85a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62f46b48153ce595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Meta/10 - Roll Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8704836de4c56155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485829dc245cb541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sessions/03_20221203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cb8fc24b0235ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb7c7a73b2bc03a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89398ab6d55f59df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c11365c1fd45e44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "264bc44198537048",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "28446d58f3a82d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Meta/00 - Main Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a85b3a6500d19bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "869a2af7816d136f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "927ddf09ec90f95b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa38a219cb13cd3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "65c13f0efd811d5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6d765a973483745",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Sessions/02_20221119 - Finishing off the Goblins.md"
+              }
+            }
+          },
+          {
+            "id": "248fb48060261b2d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "50e2a668be91548f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "20c502a0270f7d57",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8704836de4c56155",
+  "lastOpenFiles": [
+    "02 - Sessions/03_20221203.md",
+    "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
+    "00 - Meta/10 - Roll Log.md",
+    "10 - Visuals/00 - Maps/Cambroke.png",
+    "01 - World/Locations/Cambroke.md",
+    "03 - Trackers/02 - Questions and Answers.md",
+    "03 - Trackers/01 - Quests.md",
+    "03 - Trackers/03 - Quotes.md",
+    "10 - Visuals/00 - Maps/Breica_MainMap.png",
+    "02 - Sessions/01_20221113 - A Welcoming Party.md"
+  ]
+}

@@ -1,0 +1,2 @@
+#PC 
+![[Entropy.png]]
