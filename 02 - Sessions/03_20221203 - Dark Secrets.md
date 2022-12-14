@@ -27,7 +27,7 @@ The poor innkeep who gets merced by [[Haiden]]
 	- Both enter the empty tavern and order
 		- [[Haiden]] - Gut-shaker (fermented goat milk and shrooms) 
 		- [[Danzu]] - The hairy wizard (various shades of brown itchy sensation)
-	- this leads to [[Haiden]] assaulting the barkeep with his head, eventually hexing and killing him
+	- this leads to [[Haiden]] assaulting the barkeep with his head, eventually hexing and killing him (Bateman moment??)
 	- and [[Danzu]] getting wasted 
 	- [[Entropy]] barges in, nearly gets shot by a drunk [[Danzu]] suspicious of the whole situation but [[Haiden]] manages to hide that he has killed the barkeep
 - [[Haiden]] casts disguise-self and pretends to be the innkeeper, charging the party for their stay (this includes a hammer from [[Revenant]])

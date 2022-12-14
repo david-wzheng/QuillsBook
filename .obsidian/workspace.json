@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
+                "file": "02 - Sessions/03_20221203 - Dark Secrets.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Sessions/03_20221203 - Dark Secrets.md",
+                "file": "01 - World/Locations/Breica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,9 +205,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc5f7ef5eee69399",
+  "active": "e1ee692a88581489",
   "lastOpenFiles": [
     "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
+    "01 - World/Locations/Breica.md",
     "02 - Sessions/03_20221203 - Dark Secrets.md",
     "01 - World/Locations/Watchbury.md",
     "01 - World/Locations/Tarton.md",
@@ -215,7 +216,6 @@
     "01 - World/Locations/Dungeons/Goblin Cave.md",
     "10 - Visuals/02 - Character Reference/Danzu.png",
     "10 - Visuals/01 - Handouts/mark.png",
-    "00 - Meta/00 - Main Page.md",
-    "03 - Trackers/03 - Quotes.md"
+    "00 - Meta/00 - Main Page.md"
   ]
 }
