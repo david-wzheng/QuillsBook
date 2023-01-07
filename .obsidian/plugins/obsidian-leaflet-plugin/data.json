@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "breica-map",
-      "lastAccessed": 1670117414119,
+      "lastAccessed": 1672511457562,
       "markers": [
         {
           "id": "ID_89abea09085a",
@@ -127,6 +127,7 @@
             -1.3193359375,
             1.41015625
           ],
+          "link": "Dungeon2",
           "layer": "%5B%5BBreica_MainMap.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -292,7 +293,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "01 - World/Locations/Breica.md"
+        "01 - World/Locations/Breica.md",
+        "02 - Sessions/01_20221113 - A Welcoming Party.md"
       ]
     }
   ],

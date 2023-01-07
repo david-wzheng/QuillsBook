@@ -33,5 +33,8 @@ The poor innkeep who gets merced by [[Haiden]]
 - [[Haiden]] casts disguise-self and pretends to be the innkeeper, charging the party for their stay (this includes a hammer from [[Revenant]])
 - Hijinks ensue but the party gets through the night
 ### Day 8
-- Party journeys to the point of interest on the cart with Clover and Cornflower
+- Party journeys to the [[Dungeon2|point of interest]] on the cart with Clover and Cornflower (the horses)
 - It turns out to be a ruined fort infested with undead
+
+# Next Session
+[[04_20221228 - Undead Settlement]]
