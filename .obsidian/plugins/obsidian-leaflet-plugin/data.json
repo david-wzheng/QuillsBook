@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "breica-map",
-      "lastAccessed": 1672511457562,
+      "lastAccessed": 1675408032743,
       "markers": [
         {
           "id": "ID_89abea09085a",
@@ -108,6 +108,7 @@
             -1.466796875,
             0.9091796875
           ],
+          "link": "Undead fortress",
           "layer": "%5B%5BBreica_MainMap.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -124,16 +125,15 @@
           "id": "ID_3949f99a29ca",
           "type": "dungeon",
           "loc": [
-            -1.3193359375,
+            -1.34765625,
             1.41015625
           ],
-          "link": "Dungeon2",
           "layer": "%5B%5BBreica_MainMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
             0.7037037037037037,
-            0.564799331103679
+            0.5769230769230769
           ],
           "description": null,
           "minZoom": null,
@@ -293,8 +293,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "01 - World/Locations/Breica.md",
-        "02 - Sessions/01_20221113 - A Welcoming Party.md"
+        "01 - World/Locations/Breica.md"
       ]
     }
   ],

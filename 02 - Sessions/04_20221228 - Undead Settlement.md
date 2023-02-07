@@ -17,3 +17,5 @@
 - after exploring the interior keep most of the party skirts around to the top
 - [[Taragon]] and [[Quill]] keep to the battlements and provide cover as the party engages the two minotaur skeletons that are discovered
 - take a short rest after taking down the minotaur skeleton 
+# Next Session
+[[05_20221231 - Danzu and Dragons]]

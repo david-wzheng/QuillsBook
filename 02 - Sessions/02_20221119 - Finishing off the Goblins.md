@@ -35,4 +35,5 @@ Ktharkn - villager
 ### Day  5
 - we go back to Tarton
 
-# Summary
+# Next Session
+[[03_20221203 - Dark Secrets]]
