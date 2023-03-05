@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1440c63d5dafd5b",
+        "id": "080645f2314aba7e",
         "type": "tabs",
         "children": [
           {
-            "id": "00a043399740b2b2",
+            "id": "6afd2d014d371e6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - World/Characters/PCs/Quill.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - World/Characters/PCs/Quill.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - World/Characters/PCs/Quill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - World/Characters/PCs/Quill.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,11 +157,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,17 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a043399740b2b2",
+  "active": "89398ab6d55f59df",
   "lastOpenFiles": [
-    "01 - World/Characters/PCs/Quill.md",
-    "01 - World/Characters/PCs/Danzu.md",
-    "01 - World/Characters/PCs/Entropy.md",
-    "01 - World/Characters/PCs/Haiden.md",
-    "01 - World/Characters/PCs/Revenant.md",
-    "01 - World/Characters/PCs/Taragon.md",
+    "02 - Sessions/10_20230226 - Session 10.md",
+    "01 - World/Locations/Breica.md",
+    "02 - Sessions/11_20230304 - Session 11.md",
+    "02 - Sessions/09_20230211 - Session 09.md",
     "02 - Sessions/08_20230128 - Session 08.md",
-    "cultist herald.md",
     "02 - Sessions/07_20230114 - Session 07.md",
-    "10 - Visuals/01 - Handouts/cultdiary/Cultist Herald Diary.md"
+    "01 - World/Characters/NPCs/Gotbert.md",
+    "02 - Sessions/05_20221231 - Danzu and Dragons.md",
+    "02 - Sessions/04_20221228 - Undead Settlement.md",
+    "02 - Sessions/03_20221203 - Dark Secrets.md"
   ]
 }
