@@ -19,3 +19,6 @@ Current Goals
 ## Day 14
 - Get to Holton
 - Enter a dungeon (by gear) and find a bunch of zombie cultists
+
+## Next Session
+[[11_20230304 - Movus is Found...]]

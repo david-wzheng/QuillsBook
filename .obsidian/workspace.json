@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "080645f2314aba7e",
+        "id": "a1dda38ac733daeb",
         "type": "tabs",
         "children": [
           {
-            "id": "6afd2d014d371e6a",
+            "id": "cc560ea57af86e8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sessions/15_20230520 - Legacy of the Dragonborn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b32572faabb16576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sessions/15_20230520 - Legacy of the Dragonborn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "212a0831cf187006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sessions/16_20230603 - Movus reappears.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,15 +91,11 @@
             }
           },
           {
-            "id": "28446d58f3a82d78",
+            "id": "a12bc04ff0f0c2e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Meta/00 - Main Page.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -93,7 +118,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "02 - Sessions/16_20230603 - Movus reappears.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -109,8 +135,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Sessions/16_20230603 - Movus reappears.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -130,19 +157,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Sessions/16_20230603 - Movus reappears.md"
+              }
             }
           },
           {
-            "id": "248fb48060261b2d",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "50e2a668be91548f",
+            "id": "1110ffa440719975",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -150,15 +171,15 @@
             }
           },
           {
-            "id": "20c502a0270f7d57",
+            "id": "77a55138f671502b",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,17 +199,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89398ab6d55f59df",
+  "active": "212a0831cf187006",
   "lastOpenFiles": [
-    "02 - Sessions/10_20230226 - Session 10.md",
-    "01 - World/Locations/Breica.md",
-    "02 - Sessions/11_20230304 - Session 11.md",
-    "02 - Sessions/09_20230211 - Session 09.md",
-    "02 - Sessions/08_20230128 - Session 08.md",
-    "02 - Sessions/07_20230114 - Session 07.md",
-    "01 - World/Characters/NPCs/Gotbert.md",
-    "02 - Sessions/05_20221231 - Danzu and Dragons.md",
+    "02 - Sessions/15_20230520 - Legacy of the Dragonborn.md",
+    "02 - Sessions/14_20230422 - Kimmy and the Jobolds.md",
+    "02 - Sessions/16_20230603 - Movus reappears.md",
+    "02 - Sessions/17.md",
+    "02 - Sessions/13_20230415 - Jimmy and the Kobolds.md",
+    "02 - Sessions/10_20230226 - On the Move Again.md",
+    "02 - Sessions/11_20230304 - Movus is Found....md",
+    "02 - Sessions/12_20230324 - Under the Ruined Keep.md",
+    "02 - Sessions/07_20230114 - Boney Business.md",
+    "02 - Sessions/03_20221203 - Dark Secrets.md",
+    "02 - Sessions/09_20230211 - Back in Town.md",
+    "02 - Sessions/08_20230128 - Cloak and Dagger.md",
+    "02 - Sessions/06_20230106 - Deep in the Woods.md",
+    "02 - Sessions/01_20221113 - A Welcoming Party.md",
+    "02 - Sessions/02_20221119 - Finishing off the Goblins.md",
     "02 - Sessions/04_20221228 - Undead Settlement.md",
-    "02 - Sessions/03_20221203 - Dark Secrets.md"
+    "02 - Sessions/05_20221231 - Danzu and Dragons.md"
   ]
 }

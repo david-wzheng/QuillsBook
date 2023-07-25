@@ -26,4 +26,4 @@
 - two death wights are discovered and fought
 - despite the fear the wights emanate they are handily defeated
 # Next Session
-[[06_20230106 - Session 06]]
+[[06_20230106 - Deep in the Woods]]

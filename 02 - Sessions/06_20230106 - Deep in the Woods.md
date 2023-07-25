@@ -26,4 +26,4 @@
 - fight more cultists and a flameskull after briefling disguising ourselves as cultists
 
 ## Next Session
-[[07_20230114 - Session 07]]
+[[07_20230114 - Boney Business]]

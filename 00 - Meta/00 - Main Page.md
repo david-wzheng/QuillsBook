@@ -6,9 +6,9 @@
 - [[03_20221203 - Dark Secrets]]
 - [[04_20221228 - Undead Settlement]]
 - [[05_20221231 - Danzu and Dragons]]
-- [[06_20230106 - Session 06]]
-- [[07_20230114 - Session 07]]
-- [[08_20230128 - Session 08]]
+- [[06_20230106 - Deep in the Woods]]
+- [[07_20230114 - Boney Business]]
+- [[08_20230128 - Cloak and Dagger]]
 
 # Trackers
 

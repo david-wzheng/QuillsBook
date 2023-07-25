@@ -17,3 +17,6 @@ Current Goals
 - Kill another bone naga and a [[cultist herald]]
 - [[Haiden]] takes the cloak and we decieve the cult underlings before murdering them
 - Find [[Cultist Herald Diary]]
+
+## Next Session
+[[09_20230211 - Back in Town]]

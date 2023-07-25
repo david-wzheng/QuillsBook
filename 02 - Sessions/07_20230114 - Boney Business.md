@@ -18,4 +18,4 @@ Current Goals
 - cultists want to get rid of the bone naga but are somehow lead by it?
 
 ## Next Session
-[[08_20230128 - Session 08]]
+[[08_20230128 - Cloak and Dagger]]
