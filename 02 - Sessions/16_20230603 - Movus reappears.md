@@ -19,4 +19,4 @@ Current Goals
 	- A trick by [[Haiden]] is highly suspect
 
 ## Next Session
-[[17]]
+[[17_20230730 - Session 17]]

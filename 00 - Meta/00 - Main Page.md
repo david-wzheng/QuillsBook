@@ -9,6 +9,17 @@
 - [[06_20230106 - Deep in the Woods]]
 - [[07_20230114 - Boney Business]]
 - [[08_20230128 - Cloak and Dagger]]
+- [[07_20230114 - Boney Business]]
+- [[08_20230128 - Cloak and Dagger]]
+- [[09_20230211 - Back in Town]]
+- [[10_20230226 - On the Move Again]]
+- [[11_20230304 - Movus is Found...]]
+- [[12_20230324 - Under the Ruined Keep]]
+- [[13_20230415 - Jimmy and the Kobolds]]
+- [[14_20230422 - Kimmy and the Jobolds]]
+- [[15_20230520 - Legacy of the Dragonborn]]
+- [[16_20230603 - Movus reappears]]
+- [[17_20230730 - Session 17]]
 
 # Trackers
 
@@ -37,3 +48,4 @@
 [[Mapicus]] - the crazy cartographer, looks like Danny Devito/Gaetan the Mole
 [[Talehat]] - Dwarven blacksmith
 Jacob - One of the guards with [[Movus]], last name definitely Bushman
+[[Gotbert]]
