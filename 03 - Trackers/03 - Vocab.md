@@ -1,0 +1,40 @@
+# "Chirps"
+- "Hark!"
+- "Methinks"
+- "Aye that"
+- "Indeed"
+- "Ere long"
+- "Nay"
+- "Verily"
+
+# Idioms
+- "By the wings of the phoenix!"
+- "A coin for your thoughts."
+- "Fly straight and true."
+- "As the river flows, so too must we.
+- "Feathers in the wind."
+- "In the talons of destiny."
+- "Like finding a needle in the Wyrm's hoard."
+- "Sweeter than ??? honey."
+- "Speak of the demon and he shall appear."
+- "Clever as a gnome in a puzzle shop."
+- "May your aim be true as an elf's arrow."
+- "Safe as a dwarf in his forge."
+- "As curious as a pixie in a library."
+- "Sharper than a harpy's talon."
+- "Bold as a minotaur in a labyrinth."
+- "In the moon's embrace."
+- "May the stars guide us."
+- "Cold as a winter wraith's touch."
+- "Shimmer like a faerie's dance."
+- "As stubborn as a dwarf with a locked door."
+- "Quiet as a tomb on a moonless night."
+- "May your path be lined with elven grace."
+- "Like trying to catch a ghost in a bottle."
+- "Loyal as a hound to his master."
+- "Bolder than a dragon's roar."
+- "As nimble as a gnome on stilts."
+
+# Party Quotes
+- "I like food" - [[Revenant]]
+- "I have answers" - [[Revenant]]

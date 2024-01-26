@@ -25,7 +25,7 @@
 
 - [[01 - Quests|Quests]]
 - [[02 - Questions and Answers|Questions]]
-- [[03 - Quotes|Quotes]]
+- [[03 - Vocab|Quotes]]
 
 # World
 ## Locations
